@@ -1,11 +1,6 @@
 ﻿start
 feature work
 conflict change
-<<<<<<< HEAD
-urgent fix
-=======
-release fix
->>>>>>> release-v1.0
 release fix
 urgent fix
 rebase feature
